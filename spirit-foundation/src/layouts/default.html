@@ -6,10 +6,14 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Foundation for Sites</title>
+    <title>{{pageTitle}}</title>
+    <meta name="description" content"{{description}}">
     <link rel="stylesheet" href="{{root}}assets/css/app.css">
   </head>
   <body>
+
+    {{> header}}
+    {{> nav}}
 
     {{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}}
     {{> body}}

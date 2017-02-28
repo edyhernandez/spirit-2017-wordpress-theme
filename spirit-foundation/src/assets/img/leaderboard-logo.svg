@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="35px" viewBox="0 0 164 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Lato-Bold, Lato" font-weight="bold">
+        <g id="Projects-Page" transform="translate(-77.000000, -425.000000)" fill="#FFFFFF">
+            <g id="Leaderboard-Logo" transform="translate(75.000000, 418.000000)">
+                <text id="Leaderboard" font-size="30">
+                    <tspan x="0" y="30">Leaderboard</tspan>
+                </text>
+                <text id="BY-INVESTOR’S-BUSINE" font-size="8">
+                    <tspan x="44" y="41">BY INVESTOR’S BUSINESS DAILY</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
